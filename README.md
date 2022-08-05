@@ -31,7 +31,7 @@
 
 ### Contact For Contribute & Issues 
 
-                 EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
 
 ### DISCLAIMER
-                 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
